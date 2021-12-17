@@ -1,0 +1,13 @@
+﻿<Window x:Name="TutorialWindow1" x:Class="Облікування_Мобільних_Пристроїв.Windows.TutorialWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Облікування_Мобільних_Пристроїв.Windows"
+        mc:Ignorable="d"
+        Title="Підказка" Height="214.655" Width="192.241" ResizeMode="NoResize" ShowInTaskbar="False" Topmost="True" Loaded="TutorialWindow1_Loaded">
+    <Grid>
+        <StackPanel x:Name="Предмети" Margin="0" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+
+    </Grid>
+</Window>
